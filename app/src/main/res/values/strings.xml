@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="prompt_base_url">Base URL</string>
+    <string name="prompt_nickname">Nickname</string>
+    <string name="action_start">Start</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="default_base_url">https://networkslab-chat-demo.duckdns.org/</string>
+    <string name="default_nickname">Android User</string>
+</resources>
